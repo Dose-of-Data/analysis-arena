@@ -1,52 +1,56 @@
-name: Analysis Arena Submission
-description: Use this template to submit your Analysis Arena entries.
-title: "Analysis Arena Submission: [Your Title Here]"
+title: "[General] "
+labels: ["General Introduction"]
 body:
   - type: markdown
     attributes:
-      value: "Please provide the necessary details for your Analysis Arena submission."
-  - type: dropdown
-    id: analysis-category
+      value: |
+        This is text that will show up in the template!
+  - type: textarea
+    id: improvements
     attributes:
-      label: Analysis Category
-      description: Select whether your submission is for the Beginner or Advanced category.
-      options:
-        - 1. Beginner Entry
-        - 2. Advanced Entry
+      label: Top 3 improvements
+      description: "What are the top 3 improvements we could make to this project?"
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: bash
     validations:
       required: true
-  - type: dropdown
-    id: discord-community
+  - type: markdown
     attributes:
-      label: Discord Community
-      description: Please select the Discord community you are part of.
-      options:
-        - Dose of Data
-    validations:
-      required: true
+      value: |
+        ## Markdown header
+        And some more markdown
   - type: input
-    id: github-repo
+    id: has-id
     attributes:
-      label: GitHub Repo and Notebook Link
-      description: "Provide the direct link to your GitHub repository and the Jupyter notebook file for your submission."
-      placeholder: "https://github.com/username/repository/notebook.ipynb"
+      label: Suggestions
+      description: A description about suggestions to help you
+    validations:
+      required: true
+  - type: dropdown
+    id: download
+    attributes:
+      label: Which area of this project could be most improved?
+      options:
+        - Documentation
+        - Pull request review time
+        - Bug fix time
+        - Release cadence
     validations:
       required: true
   - type: checkboxes
-    id: formatting-guidelines
     attributes:
-      label: Formatting Guidelines Confirmation
-      description: Confirm that your entry follows the required formatting guidelines.
+      label: Check that box!
       options:
-        - label: "I confirm that my submission follows the guidelines (No extraneous debug/print statements, all solutions and visuals are rendered)"
-    validations:
-      required: true
-  - type: textarea
-    id: libraries-setup
+        - label: This one!
+          required: true
+        - label: I won't stop you if you check this one, too
+  - type: markdown
     attributes:
-      label: Libraries and Setup Directions
-      description: "(Optional) List any libraries used and provide setup or installation directions."
-      placeholder: "List of libraries and any special setup or installation directions."
-    validations:
-      required: false
+      value: |
+        ### The thrilling conclusion
+        _to our template_
 
