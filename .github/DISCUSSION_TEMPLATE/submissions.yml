@@ -1,5 +1,3 @@
-name: Analysis Arena Submission
-description: Use this form to submit your Analysis Arena entry.
 title: "Analysis Arena Submission: [Your Title Here]"
 body:
   - type: markdown
@@ -47,4 +45,3 @@ body:
       label: Libraries and Setup Directions (Optional)
       description: "List any libraries used and provide setup or installation directions, if necessary."
       placeholder: "List of libraries and setup/installation directions."
-
