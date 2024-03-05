@@ -7,6 +7,13 @@
 
 This event is hosted by [Dose of Data](http://www.doseofdata.com), a vibrant community where data science enthusiasts converge from all walks of life. Our mission is simple yet profound: To create a nurturing environment where everyone, regardless of skill level, can share knowledge, collaborate, and grow in data science. From beginners taking their first steps to experts shaping the future, Dose of Data is a melting pot of ideas, insights, and inspiration.
 
+## What's in Store?
+
+- **Live on Twitch:** Watch the drama unfold live as we broadcast the Analysis Arena on Twitch, where data visualizations meet real-time reactions.
+- **Beginner to Pro:** No matter your skill level, there's a place for you in the arena. Choose your dataset, beginner or advanced, and **real** data scientists will review the best work and grade and prepare feedback.
+- **Judgment Day:** Entries will be judged on data analysis and methodology, insights and accuracy, presentation and clarity, and community engagement. The best analysis for both beginner and advanced categories, along with runner-ups, will be spotlighted.
+- **Win Cool Stuff:** It's not just about bragging rights. Win digital educational materials to fuel your next data science adventure.
+
 ## Step-by-Step Guide to Join the Adventure
 
 ### 1. Register for the Event
@@ -61,13 +68,13 @@ Slide into our [Discord Server](https://discord.gg/YbxFzrg2PD) (DMs are open ðŸ˜
 
 ## FAQ
 
-**Q: Can I enter the competition and the giveaway at the same time?**
+**Q: Can I enter the competition and the giveaway at the same time?**<br>
 **A:** Sure!  If you submit your entry before the deadline and leave feedback that receives at least 3 upvotes, you can qualify for both the competition and the giveaway.
 
-**Q: How will submissions be judged?**
+**Q: How will submissions be judged?**<br>
 **A:** Check out the [RUBRIC](RUBRIC.md) we've come up with.
 
-**Q: Are you looking for event sponsors?**
+**Q: Are you looking for event sponsors?**<br>
 **A:** Sure!  Reach out to one of our admins on our [Discord Server](https://discord.gg/YbxFzrg2PD)
 
 ## TBD
