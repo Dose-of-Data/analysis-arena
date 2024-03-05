@@ -5,6 +5,17 @@
 
 # Analysis Arena #001
 
+**What is Analysis Arena?**  
+Analysis Arena is a thrilling competition and giveaway event designed for data enthusiasts of all levels—from budding data scientists to seasoned analysts. It's an opportunity for participants to showcase their data analysis skills, engage with a community of peers, and gain valuable insights from experienced professionals.
+
+**Why Are We Doing This?**  
+Our goal is to foster a vibrant community where individuals can demonstrate their abilities, learn from each other, and receive feedback on their work. It's not just about winning; it's about growing, sharing, and celebrating the world of data science.
+
+**How Do Participants Get Involved?**  
+Participants will choose a dataset aligned with their skill level, either beginner or advanced, and submit a Jupyter notebook showcasing their analysis. Submissions will be judged by actual data scientists based on a detailed rubric and reviewed during a live broadcast. Additionally, participants have the chance to peer review others' submissions, offering a platform for community engagement and mutual learning.
+
+Join us at Analysis Arena to dive into data, unravel insights, and connect with fellow data enthusiasts in a competitive yet collaborative environment!
+
 This event is hosted by [Dose of Data](http://www.doseofdata.com), a vibrant community where data science enthusiasts converge from all walks of life. Our mission is simple yet profound: To create a nurturing environment where everyone, regardless of skill level, can share knowledge, collaborate, and grow in data science. From beginners taking their first steps to experts shaping the future, Dose of Data is a melting pot of ideas, insights, and inspiration.
 
 ## What's in Store?
