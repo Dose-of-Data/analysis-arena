@@ -16,7 +16,7 @@ Participants will choose a dataset aligned with their skill level, either beginn
 
 Join us at Analysis Arena to dive into data, unravel insights, and connect with fellow data enthusiasts in a competitive yet collaborative environment!
 
-This event is hosted by [Dose of Data](http://www.doseofdata.com), a vibrant community where data science enthusiasts converge from all walks of life. Our mission is simple yet profound: To create a nurturing environment where everyone, regardless of skill level, can share knowledge, collaborate, and grow in data science. From beginners taking their first steps to experts shaping the future, Dose of Data is a melting pot of ideas, insights, and inspiration.
+> This event is hosted by [Dose of Data](http://www.doseofdata.com), a vibrant community where data science enthusiasts converge from all walks of life. Our mission is simple yet profound: To create a nurturing environment where everyone, regardless of skill level, can share knowledge, collaborate, and grow in data science. From beginners taking their first steps to experts shaping the future, Dose of Data is a melting pot of ideas, insights, and inspiration.
 
 ## What's in Store?
 
