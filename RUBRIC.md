@@ -1,22 +1,22 @@
 # Analysis Arena Submission Judging Rubric
 ## 1. Data Analysis and Methodology (40 Points)
 
-**Understanding of Data:** Clear grasp of the dataset and its context (20 Points)
-**Analysis Technique:** Effective and appropriate use of analysis methods (20 Points)
+**Understanding of Data:** Clear grasp of the dataset and its context (20 Points)<br>
+**Analysis Technique:** Effective and appropriate use of analysis methods (20 Points)<br>
 
 ## 2. Insights and Accuracy (20 Points)
 
-**Quality of Insights:**: Depth and relevance of findings (15 Points)
-**Accuracy:** Correct interpretation and presentation of data (15 Points)
+**Quality of Insights:**: Depth and relevance of findings (15 Points)<br>
+**Accuracy:** Correct interpretation and presentation of data (15 Points)<br>
 
 ## 3. Presentation and Clarity (20 Points)
 
-Communication: Clear and concise presentation of results (10 Points)
-Visualization: Effective use of visual aids, if applicable (10 Points)
+Communication: Clear and concise presentation of results (10 Points)<br>
+Visualization: Effective use of visual aids, if applicable (10 Points)<br>
 
 ## 4. Community Engagement (20 Points)
 
-Feedback Participation: Constructive involvement in the feedback process (10 Points)
+Feedback Participation: Constructive involvement in the feedback process (10 Points)<br>
 
 ## Total possible score: 100 Points
 
