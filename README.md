@@ -49,6 +49,16 @@ Don't feel like submitting a solution?  That's fine, review any currently submit
 Save the Date: Mark your calendar for the live broadcast, where solutions will be reviewed, winners announced, and prizes awarded.
 Participate in Live Discussions: Live Q&A and discussions during the broadcast.
 
+## Sponsor Our Event
+
+Hey there, future superstars of sponsorship! 🌟 Are you ready to get your brand in front of the most enthusiastic, data-crunching, Python-coding, machine-learning obsessives this side of the internet? Sounds like it.
+
+We're on the hunt for sponsors who are as excited about data science as we are about overly caffeinated late-night coding sessions (we're writing this at 4am!). Whether you've got goodies to share, wisdom to impart, or just want to help us make this event more epic, we want to hear from you!
+
+Slide into our [Discord Server](https://discord.gg/YbxFzrg2PD) (DMs are open 😉) or shoot an email to the ever-charming Aniket at doseofdata.com. Let's make some magic happen and show the world how cool data can really be!
+
+[Sponsorship Guidelines](SPONSORS.md)
+
 ## FAQ
 
 **Q: Can I enter the competition and the giveaway at the same time?**
@@ -64,7 +74,6 @@ Participate in Live Discussions: Live Q&A and discussions during the broadcast.
 
 I still need to work on these items before launch.
 
-- Sponsorship guidelines
 - Prize descriptions
 - Deadline
 - Direction / screenshots of submission process in the discussions tab
