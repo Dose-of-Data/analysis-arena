@@ -1,11 +1,11 @@
-# Analysis Arena 
-![image](https://github.com/Dose-of-Data/analysis-arena/assets/2257834/8661c0e6-c64a-40b9-978a-b8f298b9f85e)
-> Final image TBD
+<p align="center">
+    <img src="https://snipboard.io/rACiPf.jpg" width="600">
+</p>
+<!-- old logo: https://github.com/Dose-of-Data/analysis-arena/assets/2257834/8661c0e6-c64a-40b9-978a-b8f298b9f85e -->
 
+# Analysis Arena #001
 
-# About Dose of Data
-
-This event is hosted by Dose of Data, a vibrant community where data science enthusiasts converge from all walks of life. Our mission is simple yet profound: To create a nurturing environment where everyone, regardless of skill level, can share knowledge, collaborate, and grow in data science. From beginners taking their first steps to experts shaping the future, Dose of Data is a melting pot of ideas, insights, and inspiration.
+This event is hosted by [Dose of Data](http://www.doseofdata.com), a vibrant community where data science enthusiasts converge from all walks of life. Our mission is simple yet profound: To create a nurturing environment where everyone, regardless of skill level, can share knowledge, collaborate, and grow in data science. From beginners taking their first steps to experts shaping the future, Dose of Data is a melting pot of ideas, insights, and inspiration.
 
 ## Step-by-Step Guide to Join the Adventure
 
