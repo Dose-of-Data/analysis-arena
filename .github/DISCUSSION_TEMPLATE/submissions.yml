@@ -1,51 +1,50 @@
 name: Analysis Arena Submission
-description: Submit your entries for the Analysis Arena event here.
-title: "Submission: [Your Title Here]"
+description: Use this form to submit your Analysis Arena entry.
+title: "Analysis Arena Submission: [Your Title Here]"
 body:
   - type: markdown
     attributes:
-      value: "Please provide the necessary details for your Analysis Arena submission."
+      value: "Please provide the necessary details for your Analysis Arena submission below."
   - type: dropdown
-    id: analysis_category
+    id: analysis-category
     attributes:
       label: Analysis Category
-      description: Select whether your submission is for the Beginner or Advanced category.
+      description: "Select whether your submission is for the Beginner or Advanced category."
       options:
-        - 1. Beginner Entry
-        - 2. Advanced Entry
+        - Beginner Entry
+        - Advanced Entry
     validations:
       required: true
   - type: dropdown
-    id: discord_community
+    id: discord-community
     attributes:
       label: Discord Community
-      description: Please select the Discord community you are part of.
+      description: "Please select the Discord community you are part of."
       options:
         - Dose of Data
     validations:
       required: true
   - type: input
-    id: github_repo
+    id: github-repo-link
     attributes:
-      label: GitHub Repo and Notebook Link
-      description: Provide the direct link to your GitHub repository and the Jupyter notebook file for your submission.
-      placeholder: "https://github.com/username/repository/notebook.ipynb"
+      label: GitHub Repository and Notebook Link
+      description: "Provide the direct link to your GitHub repository and the Jupyter notebook file."
+      placeholder: "e.g., https://github.com/yourusername/your-repository/notebook.ipynb"
     validations:
       required: true
   - type: checkboxes
-    id: formatting_guidelines
+    id: guidelines-check
     attributes:
       label: Formatting Guidelines Confirmation
-      description: Confirm that your entry follows the required formatting guidelines.
+      description: "Confirm that your submission adheres to the specified formatting guidelines."
       options:
-        - label: "I confirm that my submission follows the guidelines (No extraneous debug/print statements, all solutions and visuals are rendered)."
+        - label: "I confirm that my submission follows the formatting guidelines, with no extraneous debug/print statements and all solutions and visuals are rendered."
     validations:
       required: true
   - type: textarea
-    id: libraries_setup
+    id: libraries-and-setup
     attributes:
-      label: Libraries and Setup Directions
-      description: "(Optional) List any libraries used and provide setup or installation directions."
-      placeholder: "List of libraries and any special setup or installation directions."
-    validations:
-      required: false
+      label: Libraries and Setup Directions (Optional)
+      description: "List any libraries used and provide setup or installation directions, if necessary."
+      placeholder: "List of libraries and setup/installation directions."
+
