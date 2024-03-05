@@ -1,0 +1,52 @@
+name: Analysis Arena Submission
+description: Use this template to submit your Analysis Arena entries.
+title: "Analysis Arena Submission: [Your Title Here]"
+body:
+  - type: markdown
+    attributes:
+      value: "Please provide the necessary details for your Analysis Arena submission."
+  - type: dropdown
+    id: analysis-category
+    attributes:
+      label: Analysis Category
+      description: Select whether your submission is for the Beginner or Advanced category.
+      options:
+        - 1. Beginner Entry
+        - 2. Advanced Entry
+    validations:
+      required: true
+  - type: dropdown
+    id: discord-community
+    attributes:
+      label: Discord Community
+      description: Please select the Discord community you are part of.
+      options:
+        - Dose of Data
+    validations:
+      required: true
+  - type: input
+    id: github-repo
+    attributes:
+      label: GitHub Repo and Notebook Link
+      description: "Provide the direct link to your GitHub repository and the Jupyter notebook file for your submission."
+      placeholder: "https://github.com/username/repository/notebook.ipynb"
+    validations:
+      required: true
+  - type: checkboxes
+    id: formatting-guidelines
+    attributes:
+      label: Formatting Guidelines Confirmation
+      description: Confirm that your entry follows the required formatting guidelines.
+      options:
+        - label: "I confirm that my submission follows the guidelines (No extraneous debug/print statements, all solutions and visuals are rendered)"
+    validations:
+      required: true
+  - type: textarea
+    id: libraries-setup
+    attributes:
+      label: Libraries and Setup Directions
+      description: "(Optional) List any libraries used and provide setup or installation directions."
+      placeholder: "List of libraries and any special setup or installation directions."
+    validations:
+      required: false
+
