@@ -1,0 +1,47 @@
+title: "Analysis Arena Submission: [Your Title Here]"
+body:
+  - type: markdown
+    attributes:
+      value: "Please provide the necessary details for your Analysis Arena submission below."
+  - type: dropdown
+    id: analysis-category
+    attributes:
+      label: Analysis Category
+      description: "Select whether your submission is for the Beginner or Advanced category. (This helps us search later.)"
+      options:
+        - Advanced Entry
+    validations:
+      required: true
+  - type: dropdown
+    id: community
+    attributes:
+      label: Community
+      description: "Please select the community you are part of."
+      options:
+        - Dose of Data
+    validations:
+      required: true
+  - type: input
+    id: github-repo-link
+    attributes:
+      label: GitHub Repository and Notebook Link
+      description: "Provide the direct link to your GitHub repository and the Jupyter notebook file."
+      placeholder: "e.g., https://github.com/yourusername/your-repository/notebook.ipynb"
+    validations:
+      required: true
+  - type: dropdown
+    id: guidelines-confirmation
+    attributes:
+      label: Formatting Guidelines Confirmation
+      description: "Confirm that your submission follows the specified formatting guidelines."
+      options:
+        - "Yes, I confirm that my submission follows the formatting guidelines, with no extraneous debug/print statements and all solutions and visuals are rendered."
+        - "No"
+    validations:
+      required: true
+  - type: textarea
+    id: libraries-and-setup
+    attributes:
+      label: Libraries and Setup Directions (Optional)
+      description: "List any libraries used and provide setup or installation directions, if necessary."
+      placeholder: "List of libraries and setup/installation directions."
