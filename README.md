@@ -81,6 +81,17 @@ Don't feel like submitting a solution? That's fine, review any currently submitt
 - **Save the Date:** Mark your calendar for the live broadcast on June 21st, where solutions will be reviewed, winners announced, and prizes awarded.
 - **Participate in Live Discussions:** Live Q&A and discussions during the broadcast.
 
+## Sponsors
+
+We are grateful to our sponsors for supporting the Analysis Arena:
+
+| Name                  | Server | Description |
+|-----------------------|--------|-------------|
+| Syntax Erreur         | [Link](https://syntaxerreur.com/) | |
+| Askwhy                | [Link](https://askwhy.com) | Our community is a vibrant space for learning, networking, and mutual support, focused on UI/UX development and design. We provide expert knowledge and guidance in these fields. Central to our community are free workshops, accessible to everyone. These sessions help you enhance skills and build lasting connections with like-minded professionals. Here, learning is a collaborative journey. Whether you're an aspiring UI/UX developer or a seasoned designer, our community supports your growth and keeps you ahead of industry trends. Join us to be part of an ecosystem where learning, networking, and support drive the future of UI/UX development and design. Let's unlock potential together, one connection and one workshop at a time. | 
+| Superior You          | [Link](https://superioryou.com) | |
+| Yerrington Consulting | [Link](http://www.yerrington.net) | In a world awash with data, we cut through the noise to deliver clarity and actionable insights. Our team blends advanced data science, machine learning, and AI technologies to empower your business. From personalized data analysis to developing sophisticated AI-driven tools, we focus on creating solutions that drive growth and foster technological innovation. We don't just analyze data; we transform it into a strategic asset for your business. | 
+
 ## Sponsor Our Event
 
 Hey there, future superstars of sponsorship! 🌟 Are you ready to get your brand in front of the most enthusiastic, data-crunching, Python-coding, machine-learning obsessives this side of the internet? Sounds like it.
