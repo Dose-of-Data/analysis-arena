@@ -1,7 +1,6 @@
 <p align="center">
     <img src="https://snipboard.io/rACiPf.jpg" width="600">
 </p>
-<!-- old logo: https://github.com/Dose-of-Data/analysis-arena/assets/2257834/8661c0e6-c64a-40b9-978a-b8f298b9f85e -->
 
 # Analysis Arena #001
 
@@ -29,21 +28,21 @@ Join us at Analysis Arena to dive into data, unravel insights, and connect with 
 
 ### 1. Register for the Event
 
-- **Sign-Up:** Visit our official "Analysis Arena" event channel on the Dose of Data Discord server here:  https://discord.gg/YbxFzrg2PD
+- **Sign-Up:** Visit our official registration form [here](https://forms.gle/HvygFb6NjGCCWxK87).
 - **Select Your Level:** Choose between Beginner or Advanced levels based on your expertise.
 - **Choose Your Dataset / Problem:** Upon registration, choose a problem and dataset based on your skill level (see below).
 
-#### Beginner: Pokemon 
+#### Beginner: Pokémon
 
-The problem statement here.  Link to assets here.
+The problem statement here. [Link to beginner problem](beginner.md).
 
-### Advanced: TBD
+#### Advanced: Pokémon
 
-The problem statement here.  Link to assets here.
+The problem statement here. [Link to advanced problem](advanced.md).
 
 ### 2. Explore and Analyze Your Dataset
 
-- Download and Explore: Access the dataset from this GitHub repository.
+- Download and Explore: Access [the dataset](data.md) from this GitHub repository.
 - Start Your Analysis: Use Python, data analysis, or machine learning techniques to explore and solve the problem statements associated with your dataset.
 
 ### 3. Prepare Your Submission
@@ -55,17 +54,32 @@ Create a clear and concise report of your analysis. Include code snippets, visua
 ### 4. Submit Your Work
 
 #### Upload to GitHub
-Post your completed analysis in the designated GitHub submission forum for the event.  A form will prompt you for your repo URL and relevant details.
+Post your completed analysis in the designated GitHub submission forum for the event. A form will prompt you for your repo URL and relevant details.
 
-> **Deadline:** Ensure that you submit your work before (the specified deadline here) to be eligible for review and prizes.
+- **Beginner Submission:** [Beginner Submissions](https://github.com/Dose-of-Data/analysis-arena/discussions/new?category=beginner)
+- **Advanced Submission:** [Advanced Submissions](https://github.com/Dose-of-Data/analysis-arena/discussions/new?category=advanced)
 
-## Giveaway
-Don't feel like submitting a solution?  That's fine, review any currently submitted entries in the **submissions forum** and get at least 3 upvotes to participate in our giveaway.  Feedback is a great way to participate in our community event, meet others, and share your knowledge with our community.
+Ensure your submission includes:
+- A clearly documented summary of findings in a single file (e.g., README.md).
+- All supporting Python notebooks or markdown files.
+- Double-check that your repository is publicly accessible for others to review.
+
+Follow up with any feedback from others and reach out and leave feedback for others as well!  Feel free to ask each other questions.
+
+> **Deadline:** Ensure that you submit your work before June 19th at 9 PM ET to be eligible for review and giveaways.
+
+### Submission Checklist
+- [ ] A clearly documented summary of findings (e.g., README.md).
+- [ ] Supporting Python notebooks or markdown files.
+- [ ] Ensure the repository is publicly accessible.
+
+## Giveaways
+Don't feel like submitting a solution? That's fine, review any currently submitted entries in the **submissions forum** and get at least 3 upvotes to participate in our giveaway. Feedback is a great way to participate in our community event, meet others, and share your knowledge with our community.  **You must be present on the broadcast to accept your giveaway.**
 
 ## Attend the Live Broadcast
 
-Save the Date: Mark your calendar for the live broadcast, where solutions will be reviewed, winners announced, and prizes awarded.
-Participate in Live Discussions: Live Q&A and discussions during the broadcast.
+- **Save the Date:** Mark your calendar for the live broadcast on June 21st, where solutions will be reviewed, winners announced, and prizes awarded.
+- **Participate in Live Discussions:** Live Q&A and discussions during the broadcast.
 
 ## Sponsor Our Event
 
@@ -79,19 +93,33 @@ Slide into our [Discord Server](https://discord.gg/YbxFzrg2PD) (DMs are open �
 
 ## FAQ
 
-**Q: Can I enter the competition and the giveaway at the same time?**<br>
-**A:** Sure!  If you submit your entry before the deadline and leave feedback that receives at least 3 upvotes, you can qualify for both the competition and the giveaway.
+**Q: Can I enter the competition and the giveaway at the same time?**  
+**A:** Sure! If you submit your entry before the deadline and leave feedback that receives at least 3 upvotes, you can qualify for both the competition and the giveaway.
 
-**Q: How will submissions be judged?**<br>
+**Q: How will submissions be judged?**  
 **A:** Check out the [RUBRIC](RUBRIC.md) we've come up with.
 
-**Q: Are you looking for event sponsors?**<br>
-**A:** Sure!  Reach out to one of our admins on our [Discord Server](https://discord.gg/YbxFzrg2PD)
+**Q: Are you looking for event sponsors?**  
+**A:** Sure! Reach out to one of our admins on our [Discord Server](https://discord.gg/YbxFzrg2PD)
 
-## TBD
+## Prizes and Giveaways
 
-I still need to work on these items before launch.
+While there are no grand prizes, the top submissions will be reviewed live by our expert data scientist guests, Mario Carillo and Jorge Brasil. The spirit of this hackathon is education and learning. We want most participants to receive feedback and the best submissions to get an opportunity for growth by receiving feedback from experienced professionals. This approach ensures that everyone gets value from participating, regardless of their skill level.
 
-- Prize descriptions
-- Deadline
-- Direction / screenshots of submission process in the discussions tab
+Additionally, anyone who reviews another participant's submissions and received the 3 reactions from participants officially registered with our event will be entered to win math and machine learning books by one of our sponsors. More giveaways will be announced closer to June 21st.
+
+## Community Engagement
+
+Community engagement will be judged based on each participant's activity within the discussion forum. We want to incentivize participants to engage with others, providing feedback, asking questions, and being active within the scope of our event. Data science is a team sport, and we want to see participants helping each other and fostering a collaborative environment.
+
+## Office Hours
+
+To help answer any questions about the dataset, approaches to the problems, and offer general guidance, we will have info/help/office hours sessions on:
+
+- **Friday, May 31st**
+- **Friday, June 7th**
+
+These sessions will be held online on Discord and Twitch. Links and info will be released via email and the #announcements channel on Discord.
+
+## Dataset Information
+For detailed information about the Pokémon dataset, including its source, structure, and usage instructions, please refer to the [Dataset Information](DATASET_INFO.md) file.
