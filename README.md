@@ -34,11 +34,11 @@ Join us at Analysis Arena to dive into data, unravel insights, and connect with 
 
 #### Beginner: Pokémon
 
-The problem statement here. [Link to beginner problem](beginner.md).
+If you are choosing the beginner problem, go here. [Link to beginner problem](beginner.md).
 
 #### Advanced: Pokémon
 
-The problem statement here. [Link to advanced problem](advanced.md).
+If you are choosing the advanced problem, go here. [Link to advanced problem](advanced.md).
 
 ### 2. Explore and Analyze Your Dataset
 
