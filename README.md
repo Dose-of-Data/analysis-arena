@@ -3,6 +3,9 @@
 </p>
 
 # Analysis Arena #001
+> - Submission Deadline / **June 19th @ 9PM/EDT**
+> - Broadcast / **Jude 21st @ 12PM/EDT**
+> - Join us on [Discord](https://discord.gg/YbxFzrg2PD) channel #analysis-arena
 
 **What is Analysis Arena?**  
 Analysis Arena is a thrilling competition and giveaway event designed for data enthusiasts of all levels—from budding data scientists to seasoned analysts. It's an opportunity for participants to showcase their data analysis skills, engage with a community of peers, and gain valuable insights from experienced professionals.
