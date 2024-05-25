@@ -3,6 +3,9 @@
 </p>
 
 # Analysis Arena #001
+> - Submission Deadline / **June 19th @ 9PM/EDT**
+> - Broadcast / **Jude 21st @ 12PM/EDT**
+> - Join us on [Discord](https://discord.gg/YbxFzrg2PD) channel #analysis-arena
 
 **What is Analysis Arena?**  
 Analysis Arena is a thrilling competition and giveaway event designed for data enthusiasts of all levels—from budding data scientists to seasoned analysts. It's an opportunity for participants to showcase their data analysis skills, engage with a community of peers, and gain valuable insights from experienced professionals.
@@ -17,41 +20,43 @@ Join us at Analysis Arena to dive into data, unravel insights, and connect with 
 
 > This event is hosted by [Dose of Data](http://www.doseofdata.com), a vibrant community where data science enthusiasts converge from all walks of life. Our mission is simple yet profound: To create a nurturing environment where everyone, regardless of skill level, can share knowledge, collaborate, and grow in data science. From beginners taking their first steps to experts shaping the future, Dose of Data is a melting pot of ideas, insights, and inspiration.
 
-## What's in Store?
+<img src="https://snipboard.io/QY6ImC.jpg">
 
-- **Live on Twitch:** Watch the drama unfold live as we broadcast the Analysis Arena on Twitch, where data visualizations meet real-time reactions.
-- **Beginner to Pro:** No matter your skill level, there's a place for you in the arena. Choose your dataset, beginner or advanced, and **real** data scientists will review the best work and grade and prepare feedback.
-- **Judgment Day:** Entries will be judged on data analysis and methodology, insights and accuracy, presentation and clarity, and community engagement. The best analysis for both beginner and advanced categories, along with runner-ups, will be spotlighted.
-- **Win Cool Stuff:** It's not just about bragging rights. Win digital educational materials to fuel your next data science adventure.
+## What's in Store? 🎉
 
-## Step-by-Step Guide to Join the Adventure
+- **Live on Twitch:** 📺 Watch the drama unfold live as we broadcast the Analysis Arena on Twitch, where data visualizations meet real-time reactions.
+- **Beginner to Pro:** 🎓 No matter your skill level, there's a place for you in the arena. Choose your dataset, beginner or advanced, and **real** data scientists will review the best work and grade and prepare feedback.
+- **Judgment Day:** ⚖️ Entries will be judged on data analysis and methodology, insights and accuracy, presentation and clarity, and community engagement. The best analysis for both beginner and advanced categories, along with runner-ups, will be spotlighted.
+- **Win Cool Stuff:** 🎁 It's not just about bragging rights. Win digital educational materials to fuel your next data science adventure.
+
+## Step-by-Step Guide to Join the Adventure 📝
 
 ### 1. Register for the Event
 
-- **Sign-Up:** Visit our official registration form [here](https://forms.gle/HvygFb6NjGCCWxK87).
+- **Sign-Up:** [Register Here](https://forms.gle/HvygFb6NjGCCWxK87) ✍️
 - **Select Your Level:** Choose between Beginner or Advanced levels based on your expertise.
 - **Choose Your Dataset / Problem:** Upon registration, choose a problem and dataset based on your skill level (see below).
 
 #### Beginner: Pokémon
 
-If you are choosing the beginner problem, go here. [Link to beginner problem](beginner.md).
+If you are choosing the beginner problem, go here: [Beginner Problem](beginner.md).
 
 #### Advanced: Pokémon
 
-If you are choosing the advanced problem, go here. [Link to advanced problem](advanced.md).
+If you are choosing the advanced problem, go here: [Advanced Problem](advanced.md).
 
-### 2. Explore and Analyze Your Dataset
+### 2. Explore and Analyze Your Dataset 🔍
 
-- Download and Explore: Access [the dataset](data.md) from this GitHub repository.
-- Start Your Analysis: Use Python, data analysis, or machine learning techniques to explore and solve the problem statements associated with your dataset.
+- **Download and Explore:** Access [the dataset](data.md) from this GitHub repository.
+- **Start Your Analysis:** Use Python, data analysis, or machine learning techniques to explore and solve the problem statements associated with your dataset.
 
-### 3. Prepare Your Submission
+### 3. Prepare Your Submission 📄
 
 #### Document Your Findings
 Create a clear and concise report of your analysis. Include code snippets, visualizations, and explanations.
 - Follow the provided template. You can use the submitted template on GitHub to make sure it's consistent and clear in your presentation.
 
-### 4. Submit Your Work
+### 4. Submit Your Work 📤
 
 #### Upload to GitHub
 Post your completed analysis in the designated GitHub submission forum for the event. A form will prompt you for your repo URL and relevant details.
@@ -64,35 +69,35 @@ Ensure your submission includes:
 - All supporting Python notebooks or markdown files.
 - Double-check that your repository is publicly accessible for others to review.
 
-Follow up with any feedback from others and reach out and leave feedback for others as well!  Feel free to ask each other questions.
+Follow up with any feedback from others and reach out and leave feedback for others as well! Feel free to ask each other questions.
 
 > **Deadline:** Ensure that you submit your work before June 19th at 9 PM ET to be eligible for review and giveaways.
 
-### Submission Checklist
+### Submission Checklist ✔️
 - [ ] A clearly documented summary of findings (e.g., README.md).
 - [ ] Supporting Python notebooks or markdown files.
 - [ ] Ensure the repository is publicly accessible.
 
-## Giveaways
-Don't feel like submitting a solution? That's fine, review any currently submitted entries in the **submissions forum** and get at least 3 upvotes to participate in our giveaway. Feedback is a great way to participate in our community event, meet others, and share your knowledge with our community.  **You must be present on the broadcast to accept your giveaway.**
+## Giveaways 🎁
+Don't feel like submitting a solution? That's fine, review any currently submitted entries in the **submissions forum** and get at least 3 upvotes to participate in our giveaway. Feedback is a great way to participate in our community event, meet others, and share your knowledge with our community. **You must be present on the broadcast to accept your giveaway.**
 
-## Attend the Live Broadcast
+## Attend the Live Broadcast 📅
 
-- **Save the Date:** Mark your calendar for the live broadcast on June 21st, where solutions will be reviewed, winners announced, and prizes awarded.
-- **Participate in Live Discussions:** Live Q&A and discussions during the broadcast.
+- **Save the Date:** 🗓️ Mark your calendar for the live broadcast on June 21st, where solutions will be reviewed, winners announced, and prizes awarded.
+- **Participate in Live Discussions:** 💬 Live Q&A and discussions during the broadcast.
 
-## Sponsors
+## Sponsors 💼
 
 We are grateful to our sponsors for supporting the Analysis Arena:
 
-| Name                  | Server | Description |
-|-----------------------|--------|-------------|
-| Syntax Erreur         | [Link](https://syntaxerreur.com/) | |
-| Askwhy                | [Link](https://askwhy.com) | Our community is a vibrant space for learning, networking, and mutual support, focused on UI/UX development and design. We provide expert knowledge and guidance in these fields. Central to our community are free workshops, accessible to everyone. These sessions help you enhance skills and build lasting connections with like-minded professionals. Here, learning is a collaborative journey. Whether you're an aspiring UI/UX developer or a seasoned designer, our community supports your growth and keeps you ahead of industry trends. Join us to be part of an ecosystem where learning, networking, and support drive the future of UI/UX development and design. Let's unlock potential together, one connection and one workshop at a time. | 
-| Superior You          | [Link](https://superioryou.com) | |
-| Yerrington Consulting | [Link](http://www.yerrington.net) | In a world awash with data, we cut through the noise to deliver clarity and actionable insights. Our team blends advanced data science, machine learning, and AI technologies to empower your business. From personalized data analysis to developing sophisticated AI-driven tools, we focus on creating solutions that drive growth and foster technological innovation. We don't just analyze data; we transform it into a strategic asset for your business. | 
+| Name                  | Description                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| [Syntax Erreur](https://syntaxerreur.com/)         |                                                                 |
+| [Askwhy](https://askwhy.com)                | Our community is a vibrant space for learning, networking, and mutual support, focused on UI/UX development and design. We provide expert knowledge and guidance in these fields. Central to our community are free workshops, accessible to everyone. These sessions help you enhance skills and build lasting connections with like-minded professionals. Here, learning is a collaborative journey. Whether you're an aspiring UI/UX developer or a seasoned designer, our community supports your growth and keeps you ahead of industry trends. Join us to be part of an ecosystem where learning, networking, and support drive the future of UI/UX development and design. Let's unlock potential together, one connection and one workshop at a time. |
+| [Superior You](https://superioryou.com)          |                                                                 |
+| [Yerrington Consulting](http://www.yerrington.net) | In a world awash with data, we cut through the noise to deliver clarity and actionable insights. Our team blends advanced data science, machine learning, and AI technologies to empower your business. From personalized data analysis to developing sophisticated AI-driven tools, we focus on creating solutions that drive growth and foster technological innovation. We don't just analyze data; we transform it into a strategic asset for your business. |
 
-## Sponsor Our Event
+## Sponsor Our Event 🤝
 
 Hey there, future superstars of sponsorship! 🌟 Are you ready to get your brand in front of the most enthusiastic, data-crunching, Python-coding, machine-learning obsessives this side of the internet? Sounds like it.
 
@@ -102,7 +107,7 @@ Slide into our [Discord Server](https://discord.gg/YbxFzrg2PD) (DMs are open �
 
 [Sponsorship Guidelines](SPONSORS.md)
 
-## FAQ
+## FAQ ❓
 
 **Q: Can I enter the competition and the giveaway at the same time?**  
 **A:** Sure! If you submit your entry before the deadline and leave feedback that receives at least 3 upvotes, you can qualify for both the competition and the giveaway.
@@ -113,17 +118,17 @@ Slide into our [Discord Server](https://discord.gg/YbxFzrg2PD) (DMs are open �
 **Q: Are you looking for event sponsors?**  
 **A:** Sure! Reach out to one of our admins on our [Discord Server](https://discord.gg/YbxFzrg2PD)
 
-## Prizes and Giveaways
+## Prizes and Giveaways 🎁
 
 While there are no grand prizes, the top submissions will be reviewed live by our expert data scientist guests, Mario Carillo and Jorge Brasil. The spirit of this hackathon is education and learning. We want most participants to receive feedback and the best submissions to get an opportunity for growth by receiving feedback from experienced professionals. This approach ensures that everyone gets value from participating, regardless of their skill level.
 
-Additionally, anyone who reviews another participant's submissions and received the 3 reactions from participants officially registered with our event will be entered to win math and machine learning books by one of our sponsors. More giveaways will be announced closer to June 21st.
+Additionally, anyone who reviews another participant's submissions and receives at least 3 upvotes from participants officially registered with our event will be entered to win math and machine learning books by one of our sponsors. More giveaways will be announced closer to June 21st.
 
-## Community Engagement
+## Community Engagement 🌍
 
 Community engagement will be judged based on each participant's activity within the discussion forum. We want to incentivize participants to engage with others, providing feedback, asking questions, and being active within the scope of our event. Data science is a team sport, and we want to see participants helping each other and fostering a collaborative environment.
 
-## Office Hours
+## Office Hours ⏰
 
 To help answer any questions about the dataset, approaches to the problems, and offer general guidance, we will have info/help/office hours sessions on:
 
@@ -133,4 +138,7 @@ To help answer any questions about the dataset, approaches to the problems, and 
 These sessions will be held online on Discord and Twitch. Links and info will be released via email and the #announcements channel on Discord.
 
 ## Dataset Information
-For detailed information about the Pokémon dataset, including its source, structure, and usage instructions, please refer to the [Dataset Information](DATASET_INFO.md) file.
+
+For detailed information about the Pokémon dataset, including its source, structure, and usage instructions, please refer to the [Dataset Information](data.md) file.
+
+<img src="https://snipboard.io/UgsSQh.jpg">
