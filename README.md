@@ -11,6 +11,8 @@
 > [!IMPORTANT]
 > **Need Some Help?**
 > 
+> Join our office hours session and ask any question you like about getting started, any of the datasets, problem statements, our rubric, or anything!
+>
 > 🗓️ **Friday June 7th at 4pm (GMT+2)**<br>
 > 🗓️ **Friday June 14th at 4pm (GMT+2)**
 > 
